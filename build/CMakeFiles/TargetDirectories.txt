@@ -1,3 +1,0 @@
-/home/robond/Workspace/Udactiy/RobotNanoDegree/Lesson1/Project/build/CMakeFiles/edit_cache.dir
-/home/robond/Workspace/Udactiy/RobotNanoDegree/Lesson1/Project/build/CMakeFiles/rebuild_cache.dir
-/home/robond/Workspace/Udactiy/RobotNanoDegree/Lesson1/Project/build/CMakeFiles/hello.dir
